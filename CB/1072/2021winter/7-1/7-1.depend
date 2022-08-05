@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646056732 source:d:\learning\pat\cb\1072\7-1\7-1.cpp
+	"bits/stdc++.h"
+
+1646056580 source:d:\learning\pat\cb\1072\7-1\map.cpp
+	<iostream>
+	<map>
+
